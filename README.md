@@ -34,6 +34,7 @@ Property_Area	       Urban/ Semi Urban/ Rural
 2. Univariate and Bivariate Analysis was done. 
 
 3. Inisghts Obtained are as follows:
+
 📌 Salary: Applicants with high income should have more chances of loan approval.
 
 📌 Previous history: Applicants who have repayed their previous debts should have higher chances of loan approval.
